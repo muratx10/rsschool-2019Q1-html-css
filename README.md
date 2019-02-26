@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css# rsschool-codejam1-cv
+Shirmyrat AKMAMEDAU
+https://www.codecademy.com/users/muratx10_/achievements
