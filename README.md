@@ -1,2 +1,2 @@
 Shirmyrat AKMAMEDAU
-https://www.codecademy.com/users/muratx10_/achievements
+HTML CSS Basics: https://www.codecademy.com/users/muratx10_/achievements
